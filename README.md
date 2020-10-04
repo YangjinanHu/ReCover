@@ -8,7 +8,17 @@ Although we have lived with Covid-19 for nearly a year, people are still not get
 ReCover aims to cultivate the habit of wearing masks properly. It is a non-profit educational app which combines professional instructions and entertainment experience. Registered users can use this app to check the latest news of Covid-19, learn the knowledge about prevention, report local merchants not wearing masks during open time, design customized masks and donate masks to underprivileged groups etc. By doing the right things and good causes, users will receive ReCover virtual points and redeem them for donation, mask DIY tool bags, local merchants coupon or other rewards.
 
 ## How I built it
-We brainstormed in the first meeting and ...TO BE FINISHED
+As we are currently living in a world engulfed by COVID-19 pandemic, we want to develop a project that help reduce the COVID-19 transmission in population, and wearing masks is recommended by public health insistutions as ways to protect the health of the community. To foster people's habit of mask wearing, we borrowed concepts from the nudging theory in behavioral economics: positive reinforcement as ways to indirectly influence the behavior of people. Through rounds of discussion, we brainstromed and implemented four ideas of positive reinforcement that reward people's mask wearing behavior:
+
+First, we gamify mask wearing by developing a virtual reward/punish system that uses ReCover Coins to encourage community-caring behavior. We reward behavior such as wearing mask correctly, report incorrect mask wearing/mask wearing law violations, learning pertinent knowledge about COVID-19 on Encyclopedia module. We punish behavior like, wearing mask incorrectly and not following public health regulations. In practice, we incorporate convolutional neural networks to detect if a person is wearing mask correctly.
+
+Second, we introduce the friends circle to create a social proof heuristic and competition. User in the friend circle section can view how much ReCover Coins their friends have and users who rank first will receive bonus coins.
+
+Third, we want to make our app more fun so we introduce MaskYou section, a function that allow user to design their own facemasks and post them on MasketPlace. We hope this function can spur users creativity and provide a platform to showcase users' personality that alleviate the stigma on maskwearing. 
+
+Fourth, we want our user to have up-to-date information about COVID so we designed Newsfeed that show recent COVID news and Guideline that show health information from public health insititutions.
+
+We designed the user interface of our app on figma.
 
 ## Challenges I ran into
 One of our members withdraw from the team on Saturday. He is the only one who have experience and skillsets in app development. The rest of us either have no tech background or are not familiar with app development. Also, this is the first Hackathon for three of us. 
