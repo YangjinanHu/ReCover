@@ -20,6 +20,7 @@ Third, we want to make our app more fun so we introduce MaskYou section, a funct
 Fourth, we want our users to have up-to-date information about COVID so we designed Newsfeed that shows recent COVID news and Guideline that show health information from public health institutions.
 
 We designed the user interface of our app on Figma. Check it out: https://www.figma.com/file/ExDIoE2U5zfS49qkHU7m82/ReCover?node-id=0%3A1
+View Prototype: https://www.figma.com/proto/ExDIoE2U5zfS49qkHU7m82/ReCover?node-id=41%3A72&scaling=scale-down
 ## Challenges I ran into
 One of our members withdrew from the team on the day before the submission. He was the only member who had experience and skillset in app development. The rest of us either have no tech background or are not familiar with app development. Also, this is the first Hackathon for three of us.
 
