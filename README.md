@@ -1,5 +1,5 @@
 # ReCover
-This is a project created by Sandra Pan, Priyam Patel and Alex Yangjinan Hu in the IvyHacks Competition. 
+This is a project created by Sandra Pan, Priyam Patel and Alex Yangjinan Hu in IvyHacks Hackathon. 
 
 ## Inspiration
 Although we have lived with Covid-19 for nearly a year, people are still not getting used to wearing facemasks properly and regularly. Some people refuse to wear one, or even blame those who ask them to wear one. We want to change the status quo and make a safer community for our world.
